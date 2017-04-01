@@ -96,7 +96,7 @@ function team4F(){
   <iframe class="popuptext" id="myPopup" src="https://cse.broward.edu/intech/" width = "500" height = "500"></iframe>
 </div>
 <div class="popup" >
-  <iframe class="popuptext" id="myPopup2" src="https://cse.broward.edu" width = "500" height = "500"></iframe>
+  <iframe class="popuptext" id="myPopup2" src="team.php" width = "500" height = "500"></iframe>
 </div>
 
 <!--<h2 class="teamHeader" id="h2">Team 3</h2>
