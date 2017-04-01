@@ -50,7 +50,14 @@ html, body {
     height:100%
 
 }
-body { font-family:Georgia, "Times New Roman", Times, serif 
+body { 
+
+  padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+    font-family:Georgia, "Times New Roman", Times, serif 
   background-color: #bf8840;}
 h1, p { margin:0 0 1em; }
 h1 { text-align:center; }
@@ -171,8 +178,22 @@ h1 { text-align:center; }
 
 #foot{
     text-align: center;
-    </style>
+   
 }
+
+#imageDiv{
+    
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+
+} 
+
+
+</style>
+
+
 </head>
 
 <body>

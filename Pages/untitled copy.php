@@ -81,7 +81,7 @@ function team4F(){
 
 <!--<h2 class="teamHeader" id="h2">Team 1</h2>-->
 
-
+<div id="imageDiv">
 
 <!--<a href="https://cse.broward.edu/intech/" target="_blank">-->
 <img class="popup"  src="../Assets/team1.jpg" alt="team1" height="250" width="600" onclick="team1F()" id="team1">
@@ -110,7 +110,7 @@ function team4F(){
 
 <!--</a><div class="box"><iframe src="https://cse.broward.edu/intech/" width = "500" height = "500"></iframe></div>-->
 
-
+</div>
 
 <?php
 
