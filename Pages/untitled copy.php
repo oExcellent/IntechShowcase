@@ -33,8 +33,8 @@ function myFunction() {
 <div class="intro">
         <div class="inner">
                 <div class="content">
-                        <h1>Navigation Buttons.</h1>
-                        <p id="h1"><br><br><br><br><br>Heading<br><br><br><br><br><br><br></p>
+                        <h1>Heading or Title Here</h1>
+                        <p id="h1"><br><br><br><br><br>Snappy Quote<br><br><br><br><br><br><br></p>
                 </div>
         </div>
 </div>
@@ -81,7 +81,7 @@ function team4F(){
 
 <!--<h2 class="teamHeader" id="h2">Team 1</h2>-->
 
-<div id="imageDiv">
+<div class="centre" id="imageDiv">
 
 <!--<a href="https://cse.broward.edu/intech/" target="_blank">-->
 <img class="popup"  src="../Assets/team1.jpg" alt="team1" height="250" width="600" onclick="team1F()" id="team1">
@@ -93,7 +93,7 @@ function team4F(){
 <!--</a><div class="box"><iframe src="https://cse.broward.edu/intech/" width = "500" height = "500"></iframe></div>-->
 
 <div class="popup" >
-  <iframe class="popuptext" id="myPopup" src="https://cse.broward.edu/intech/" width = "500" height = "500"></iframe>
+  <iframe class="popuptext" id="myPopup" src="team2.php" width = "500" height = "500"></iframe>
 </div>
 <div class="popup" >
   <iframe class="popuptext" id="myPopup2" src="team.php" width = "500" height = "500"></iframe>

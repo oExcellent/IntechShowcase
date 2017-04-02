@@ -126,7 +126,7 @@ h1 { text-align:center; }
     padding: 8px 0;
     position: absolute;
     z-index: 1;
-    bottom: 125%;
+    bottom: 170%;
     left: 50%;
     margin-left: -80px;
 
@@ -186,7 +186,26 @@ h1 { text-align:center; }
 <h2 id="ht"><?php //echo $teamTitle ?>Team!</h2>
 
 <div id="div1">
-<p><?php //echo $teamPhoto ?> <img src="../Assets/team1.jpg" alt="team1 image" height=250" width="600"></p>
+<p>
+<br><br><br>
+<?php //echo $teamPhoto ?> 
+
+<div>
+<img src="../Assets/mem1.jpg" alt="team1 image" height=170" width="170">
+<img src="../Assets/mem2.jpg" alt="team1 image" height=170" width="170">
+<img src="../Assets/mem3.jpeg" alt="team1 image" height=170" width="170">
+<img src="../Assets/mem4.jpg" alt="team1 image" height=170" width="170">
+</div>
+<div id="contactMember">
+firstname lastname  |  firstname lastname  |  firstname lastname   |  firstname lastname
+<br>
+<a href="mailto:bc.inTech@gmail.com">Contact 1</a> |
+<a href="mailto:bc.inTech@gmail.com">Contact 2</a> |
+<a href="mailto:bc.inTech@gmail.com">Contact 3</a> |
+<a href="mailto:bc.inTech@gmail.com">Contact 4</a>
+    
+</div>
+</p>
 <p><?php //echo $teamDescription ?>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
 </div>
