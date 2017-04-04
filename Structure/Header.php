@@ -202,6 +202,18 @@ div.centre
     font-size:40%;
 }
 
+#Events{
+
+text-align: center;
+color: white;
+  padding-top: 330px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+font-size:160%;
+
+}
+
 </style>
 
 

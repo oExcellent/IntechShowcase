@@ -92,11 +92,14 @@ function team4F(){
 <img class="popup"  src="../Assets/team2.jpg" alt="team2" height="250" width="600" onclick="team2F()" id="team2">
 <!--</a><div class="box"><iframe src="https://cse.broward.edu/intech/" width = "500" height = "500"></iframe></div>-->
 
-<div class="popup" >
-  <iframe class="popuptext" id="myPopup" src="team2.php" width = "500" height = "500"></iframe>
-</div>
+<!-- team 1-->
 <div class="popup" >
   <iframe class="popuptext" id="myPopup2" src="team.php" width = "500" height = "500"></iframe>
+</div>
+
+<!-- Team2 -->
+<div class="popup" >
+  <iframe class="popuptext" id="myPopup" src="team2.php" width = "500" height = "500"></iframe>
 </div>
 
 <!--<h2 class="teamHeader" id="h2">Team 3</h2>
