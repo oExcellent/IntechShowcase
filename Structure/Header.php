@@ -214,6 +214,11 @@ font-size:160%;
 
 }
 
+ul {
+    list-style-type: none;
+
+}
+
 </style>
 
 

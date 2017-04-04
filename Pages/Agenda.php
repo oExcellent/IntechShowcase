@@ -10,13 +10,17 @@ $header = 'Agenda';
 include('../Structure/Header.php');
 ?>
 
-<ol id="Events">
+<div id="Events">
+
+<h1>Itinerary</h1>
+<ul>
+
     <li>First thing</li>
     <li>Second thing</li>
     <li>Third thing</li>
     <li>Fourth thing</li>
-</ol>
-
+</ul>
+<div id="Events">
 
 
 <?php
